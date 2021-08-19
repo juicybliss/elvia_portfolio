@@ -1,6 +1,7 @@
 # This Repository is brought to you by Simplefolio. 
-#Thank you Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev) for creating the template used for this portfolio!
-#**_IMPORTANT NOTE_**: New fastest version came out, built with React + Gatsby! 🎉🎉🎉 See more: [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio)
+Thank you Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev) for creating the template used for this portfolio!
+ 
+**_IMPORTANT NOTE_**: New fastest version came out, built with React + Gatsby! 🎉🎉🎉 See more: [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio)
 
 ## Others versions 👥
 
