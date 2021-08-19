@@ -30,3 +30,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 A big thank you to the[ZTM Community](https://github.com/zero-to-mastery) and to [Andrei](https://github.com/aneagoie) for showing me the ropes to becoming a developer!
+
