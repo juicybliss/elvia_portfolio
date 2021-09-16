@@ -21,6 +21,7 @@
   }
 }
 
+
 /* Hero Style */
 .cta-btn--hero {
   @include supportColorForIE11();
@@ -92,4 +93,9 @@
 /* Arrow Button */
 .up i {
   color: #272727;
+}
+/*For dark Backgrounds*/
+.btn-success{
+  color: white;
+  background-color: rgb(85, 13, 128);
 }

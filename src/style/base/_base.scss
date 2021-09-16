@@ -6,3 +6,19 @@ body {
   font-family: "Montserrat", sans-serif;
   text-align: center;
 }
+
+/* unvisited link */
+a:link {
+  color: rgba(65, 8, 129, 0.719);
+}
+
+/* visited link */
+a:visited {
+  color: rgba(119, 0, 255, 0.719);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(23, 214, 39);
+}
+
